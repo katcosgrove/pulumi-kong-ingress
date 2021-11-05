@@ -1,4 +1,4 @@
-# do-k8s-cluster
+# Kong Ingress with Pulumi
 Quick and dirty pulumi program to spin up a k8s cluster on Digital Ocean and deploy a Kong ingress controller.
 
 1. [Install Pulumi](https://www.pulumi.com/docs/get-started/install/)
