@@ -32,11 +32,6 @@ $ pulumi config set tag my-cluster
 
 3. Run `pulumi up` to preview and deploy changes:
 
-4. You can get the `kubeconfig` by running:
-
-```bash
-$ pulumi stack output kubeconfig --show-secrets > kubeconfig
-```
 
 ## Clean up
 
