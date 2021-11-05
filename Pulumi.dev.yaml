@@ -1,0 +1,7 @@
+config:
+  do-k8s-cluster:cluster-name: kat-testing
+  do-k8s-cluster:node-count: "4"
+  do-k8s-cluster:node-pool-name: kat-testing-pool
+  do-k8s-cluster:node-size: s-1vcpu-2gb
+  do-k8s-cluster:region: nyc3
+  do-k8s-cluster:tag: my-cluster
